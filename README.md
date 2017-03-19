@@ -7,3 +7,5 @@ Step 1: paste code
 Step 2: press the Start button on the top right corner
 
 Step 3: RESULTS
+
+** if running on home machine, change range inside for-loops to as large as you want
