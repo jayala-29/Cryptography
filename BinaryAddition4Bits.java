@@ -2,8 +2,10 @@ public class BinaryAddition4bits {
 
   public static void main(String[] args) {
   
+    // change the operands here to your wanted numbers
     int[] operand1 = {1, 0, 1, 1};
     int[] operand2 = {1, 0, 1, 0};
+    
     int length = operand1.length;
     int[] carry = {0, 0, 0, 0};
     int[] result = {0, 0, 0, 0, 0};
