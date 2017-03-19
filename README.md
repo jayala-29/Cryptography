@@ -1,1 +1,1 @@
-Just some programs for encrypting/decrypting algorithms.
+Just some programs that include methods, ciphers, and tools for encrypting/decrypting algorithms.
