@@ -2,6 +2,8 @@ public class JacobiSymbol {
 
   public static boolean checkMod(int a, int p) {
   
+    System.out.println (a + " - " + i + "^2 mod " + p + " = " + ((a - i * i) % p));
+    
     for (int i = 1; i < 1000; i++) {
     
       if ((a - i * i) % p == 0) {
