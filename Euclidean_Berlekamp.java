@@ -39,7 +39,7 @@ public class Euclidean_Berlekamp {
     }
   }  
   public static void main (String[] args) {
-    int a = 109;
+    int a = 109; // go ahead and change the 'a' and 'b' values to match what you want to output
     int b = 17;
     int k = -1;
     System.out.println ("Euclidean Algorithm Result\n--------------------------");
