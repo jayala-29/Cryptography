@@ -1,7 +1,6 @@
 Just some programs that include methods, ciphers, and tools for encrypting/decrypting algorithms.
 
 # you are able to run these on browxy.com
-## Java Files ONLY
 
 Step 1: paste code
 
