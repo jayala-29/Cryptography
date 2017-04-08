@@ -1,5 +1,4 @@
 public class BinaryAddition4bits {
-
   public static void main(String[] args) {
   
     // change the operands here to your wanted numbers
