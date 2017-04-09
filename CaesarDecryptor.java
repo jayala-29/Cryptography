@@ -6,7 +6,7 @@ public class CaesarDecryptor {
     Scanner input = new Scanner(System.in);
     System.out.print("Please enter a message to decrypt: ");
     String message = input.nextLine();
-    System.out.print("Please enter the letter key: ");
+    System.out.print("Please enter the letter key from the encryptor: ");
     String key = input.nextLine();
     message = message.toLowerCase();
     key = key.toLowerCase();
