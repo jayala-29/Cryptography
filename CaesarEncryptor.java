@@ -1,6 +1,5 @@
 import java.util.Scanner;
 import java.lang.StringBuilder;
-
 public class CaesarEncryptor {
   public static void main(String[] args) {
     StringBuilder encryptedMessage = new StringBuilder();
