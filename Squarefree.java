@@ -26,6 +26,8 @@ public class Squarefree {
     for (int i = 0; i < num_list.length; i++) {
       if (is_squarefree (num_list[i]))
         System.out.println (num_list[i] + " is squarefree.");
+      else 
+        System.out.println (num_list[i] + " is not squarefree.");
     }
   }
 }
