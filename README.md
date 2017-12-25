@@ -1,6 +1,6 @@
 Just some programs that include methods, ciphers, and tools for encrypting/decrypting algorithms.
 
-# you are able to run these on browxy.com
+# you are able to run these on beta.browxy.com
 
 Step 1: paste code
 
