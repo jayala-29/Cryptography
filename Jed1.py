@@ -1,6 +1,6 @@
 ##############################################
 # Jed-Algorithm Test 1                       #
-# O(|etable[0]| + ... + |etable[n]|)         #
+# O(|ktable[0]| + ... + |ktable[n]|)         #
 # table network implementation               #
 ##############################################
 
